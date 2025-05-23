@@ -14,8 +14,8 @@ To write a C program that reads a one-dimensional array of integers and replaces
 ```
 /*
 Program that reads a one-dimensional array of integers and replaces all even elements with 'E'.
-Developed by: JAYASHREE S
-RegisterNumber:  212223060103
+Developed by: Mukilan B
+RegisterNumber:  212223060156
 
 #include <stdio.h>
 
